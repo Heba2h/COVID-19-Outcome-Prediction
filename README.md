@@ -37,17 +37,10 @@ The primary objectives of this project are as follows:
 1. **Clone the repository:**
 
    ```bash 
-   git clone https://github.com/your-username/your-repository.git 
+   git clone https://github.com/Heba2h/COVID-19-Outcome-Prediction.git 
    ```
 2. **Navigate to the project directory:**
     ``` bash
-    cd your-repository
+    cd COVID-19-Outcome-Prediction
     ```
-
-3. **Install the required dependencies:** 
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Open the Jupyter notebook or Python script to explore and run the classifiers.**
+3. **Open the Jupyter notebook or Python script to explore and run the classifiers.**
